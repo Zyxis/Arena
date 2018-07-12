@@ -1,5 +1,4 @@
-﻿  Character.cpp
-c:\nya program\programeringsprojekt\egnaprojekt\cplusplusträning\arena\arena\character.cpp(19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\nya program\programeringsprojekt\egnaprojekt\cplusplusträning\arena\arena\character.cpp(20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+﻿  main.cpp
+c:\nya program\programeringsprojekt\egnaprojekt\cplusplusträning\arena\arena\main.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Arena.vcxproj -> C:\Nya Program\Programeringsprojekt\EgnaProjekt\CplusplusTräning\Arena\Debug\Arena.exe
   Arena.vcxproj -> C:\Nya Program\Programeringsprojekt\EgnaProjekt\CplusplusTräning\Arena\Debug\Arena.pdb (Partial PDB)

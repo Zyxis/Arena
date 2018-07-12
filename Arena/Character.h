@@ -13,7 +13,7 @@ public:
 	//Hp
 	int MaxHealth;
 	int CurrentHealth;
-	int BaseHealth; //Borde = level x hp för en specifik klass, bör gälla för samtliga base funktioner.
+	int BaseHealth; //Borde va = level x hp för en specifik klass, bör gälla för samtliga base funktioner.
 	float HealthBuff;
 
 	//Defence
